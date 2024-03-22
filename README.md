@@ -10,8 +10,16 @@
 
 5- Gradient
 
-6- 6-Death Symbol
+6- Death Symbol
 
 # PyIP27_Digital
+1- Batman logo
+
+2- TV noise
+
+3- snowfall
+
+4- color detector
+
 
 
