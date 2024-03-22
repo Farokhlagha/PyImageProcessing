@@ -23,3 +23,5 @@ for row in range(height):
 cv2.imshow("chessboard", chess_board)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+cv2.imwrite('chessboard.jpg', chess_board)
+
