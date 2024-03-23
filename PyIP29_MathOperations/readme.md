@@ -36,8 +36,12 @@ python 5-background.py
 ```
 
 ### Result
-![output](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP28_FaceDetection/output/Football_pitch.jpg)
+![morphy](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP29_MathOperations/output/morph.jpg)
 
-![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP28_FaceDetection/output/cat_detection.jpg)
+![black hole](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP29_MathOperations/output/black_hole.jpg)
 
-![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP28_FaceDetection/output/checkered_face.jpg)
+![Sketch](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP29_MathOperations/output/sketch.jpg)
+
+![secret](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP29_MathOperations/output/secret_text.jpg)
+
+![Decoration](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP29_MathOperations/output/Decoration.jpg)

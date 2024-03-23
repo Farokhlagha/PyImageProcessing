@@ -31,7 +31,20 @@ This program uses [opencv](https://github.com/opencv/opencv) and numpy libraries
 
 3- Face Detector
 
-##
+## PyIP29_MathOperations
+1-Face Morphing
+
+2-Black Hole
+
+3-Photo to Sketch
+
+4-Find The Secret Text
+
+5-Background Estimation
+
+6-Virtual Decoration
+
+## 
 
 
 
