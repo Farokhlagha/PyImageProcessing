@@ -26,15 +26,15 @@ pip install -r requirement.txt
 ### How to Run
 execute this command in terminal:
 ```
-python 4_exaggerated_pic.py
+python exaggerated_pic.py
 ```
 
 ### Result
-![apple_filter](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP29_MathOperations/output/morph.jpg)
+![apple_filter](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP30_FaceAlignment/output/apple_filter.jpg)
 
-![rotate](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP29_MathOperations/output/black_hole.jpg)
+![rotate](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP30_FaceAlignment/output/rotate.jpg)
 
-![align](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP29_MathOperations/output/sketch.jpg)
+![align](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP30_FaceAlignment/output/align.png)
 
-![exaggerated](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP29_MathOperations/output/secret_text.jpg)
+![exaggerated](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP30_FaceAlignment/output/exaggerated.jpg)
 

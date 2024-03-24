@@ -32,7 +32,7 @@ pip install -r requirement.txt
 ### How to Run
 execute this command in terminal:
 ```
-python 5-background.py
+python background.py
 ```
 
 ### Result

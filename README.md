@@ -44,7 +44,26 @@ This program uses [opencv](https://github.com/opencv/opencv) and numpy libraries
 
 6-Virtual Decoration
 
-## 
+## PyIP30_FaceAlignment
+1-Apple_Filter
+
+2-Rotate_Face
+
+3-Align Face
+
+4-Eexaggerated_Pic
+
+## PyIP31_Convolution_Histogram
+1-Histogram 
+
+2-Foreground focus, Blur background
+
+3-Edge detection
+
+4-Vertical and horizontal edge detection
+
+5-Noise reduction
+
 
 
 
