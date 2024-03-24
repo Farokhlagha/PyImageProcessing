@@ -35,13 +35,14 @@ python noise-reduction.py
 ```
 
 ### Result
-![histogram](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP30_FaceAlignment/output/apple_filter.jpg)
+![histogram](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP31_Convolution_Histogram/output/plt.hist().png)
 
-![focus](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP30_FaceAlignment/output/rotate.jpg)
+![focus](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP31_Convolution_Histogram/output/focus_foreground.jpg)
 
-![edge](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP30_FaceAlignment/output/align.png)
+![edge](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP31_Convolution_Histogram/output/edge_lion.jpg)
 
-![v_h_edge](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP30_FaceAlignment/output/exaggerated.jpg)
+![v_h_edge](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP31_Convolution_Histogram/output/v_edege_building.jpg)
 
-![vnoise](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP30_FaceAlignment/output/exaggerated.jpg)
+![vnoise](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP31_Convolution_Histogram/output/xray_3in3.jpg)
+
 
