@@ -64,6 +64,16 @@ This program uses [opencv](https://github.com/opencv/opencv) and numpy libraries
 
 5-Noise reduction
 
+## PyIP32_Convolution_Equalization
+1-Convolution 2D
+
+2-Average filter
+
+3-Median Filter
+
+4-Histogram Equalization
+
+
 
 
 

@@ -42,13 +42,13 @@ python average_filter.py
 ```
 
 ### Result
-![convolution](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP31_Convolution_Histogram/output/plt.hist().png)
+convolution![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP32_Convolution_Equalization/output/2Dfilter_emboss.jpg)
 
-![average](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP31_Convolution_Histogram/output/focus_foreground.jpg)
+average![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP32_Convolution_Equalization/output/hidden_character.jpg)
 
-![median](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP31_Convolution_Histogram/output/edge_lion.jpg)
+median![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP32_Convolution_Equalization/output/baloon.jpg)
 
-![equalization](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP31_Convolution_Histogram/output/v_edege_building.jpg)
+equalization![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP32_Convolution_Equalization/output/equaliz.jpg)
 
 
 

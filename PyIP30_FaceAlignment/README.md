@@ -30,11 +30,11 @@ python exaggerated_pic.py
 ```
 
 ### Result
-![apple_filter](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP30_FaceAlignment/output/apple_filter.jpg)
+apple_filter![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP30_FaceAlignment/output/apple_filter.jpg)
 
-![rotate](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP30_FaceAlignment/output/rotate.jpg)
+rotate ![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP30_FaceAlignment/output/rotate.jpg)
 
-![align](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP30_FaceAlignment/output/align.png)
+align![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP30_FaceAlignment/output/align.png)
 
-![exaggerated](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP30_FaceAlignment/output/exaggerated.jpg)
+exaggerated![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP30_FaceAlignment/output/exaggerated.jpg)
 

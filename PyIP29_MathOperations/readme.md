@@ -36,12 +36,12 @@ python background.py
 ```
 
 ### Result
-![morphy](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP29_MathOperations/output/morph.jpg)
+morphy ![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP29_MathOperations/output/morph.jpg)
 
-![black hole](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP29_MathOperations/output/black_hole.jpg)
+black hole ![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP29_MathOperations/output/black_hole.jpg)
 
-![Sketch](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP29_MathOperations/output/sketch.jpg)
+Sketch![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP29_MathOperations/output/sketch.jpg)
 
-![secret](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP29_MathOperations/output/secret_text.jpg)
+secret![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP29_MathOperations/output/secret_text.jpg)
 
-![Decoration](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP29_MathOperations/output/Decoration.jpg)
+Decoration![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP29_MathOperations/output/Decoration.jpg)
