@@ -40,9 +40,9 @@ python Dice_recognition.ipynb
 ```
 
 ### Result
-dice![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP32_Convolution_Equalization/output/2Dfilter_emboss.jpg)
+dice![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP33_Object_Detection/output/dice_number.png)
 
-webcam![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP32_Convolution_Equalization/output/hidden_character.jpg)
+webcam![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP33_Object_Detection/output/funny_camera.png)
 
 
 

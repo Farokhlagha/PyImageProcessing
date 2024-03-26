@@ -73,6 +73,17 @@ This program uses [opencv](https://github.com/opencv/opencv) and numpy libraries
 
 4-Histogram Equalization
 
+## PyIP33_Object_Detection
+1-Dice Recognition
+
+2-boundingRect
+
+3-contourArea
+
+4-findContours
+
+5-Funny webcam
+
 
 
 
