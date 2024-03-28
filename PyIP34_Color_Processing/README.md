@@ -29,19 +29,19 @@ python microsoft_logo.ipynb
 ```
 
 ### Result
-Color![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP33_Object_Detection/output/dice_number.png)
+Color![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP34_Color_Processing/input/RGB.jpg)
 
 to 
-grayscale![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP33_Object_Detection/output/dice_number.png)
+grayscale![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP34_Color_Processing/output/grayphoto.jpg)
 
-Rainbow![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP33_Object_Detection/output/funny_camera.png)
+Rainbow![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP34_Color_Processing/output/rainbow.jpg)
 
-Watermelon![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP33_Object_Detection/output/dice_number.png)
+Watermelon![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP34_Color_Processing/input/watermelon.jpg)
 
-Materwelon![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP33_Object_Detection/output/dice_number.png)
+Materwelon![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP34_Color_Processing/output/materwelon.jpg)
 
-Rubik![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP33_Object_Detection/output/dice_number.png)
+Rubik![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP34_Color_Processing/input/Rubik.png)
 
-Solved_Rubik![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP33_Object_Detection/output/dice_number.png)
+Solved_Rubik![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP34_Color_Processing/output/solved_rubik.jpg)
 
-Microsoft logo![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP33_Object_Detection/output/dice_number.png)
+Microsoft logo![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP34_Color_Processing/output/ms_logo.png)
