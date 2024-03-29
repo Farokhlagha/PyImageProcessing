@@ -7,7 +7,7 @@ Write a function to convert a color image to a grayscale image..
 ## 2-Rainbow 
 Draw a beautiful rainbow 🌈.
 
-## 3-Watermelon 🍉 to Materwelon
+## 3-Watermelon to Materwelon
 Convert Watermelon 🍉 to Materwelon. Search in the google to know what is materwelon.
 
 ## 4-Rubik's cube

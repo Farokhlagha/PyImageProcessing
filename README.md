@@ -89,7 +89,7 @@ This program uses [opencv](https://github.com/opencv/opencv) and numpy libraries
 
 2-2-Rainbow
 
-3-Watermelonto Materwelon
+3-Watermelon to Materwelon
 
 4-Rubik's cube
 
