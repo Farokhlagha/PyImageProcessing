@@ -40,10 +40,10 @@ python media_pipe.py
 ```
 
 ### Result
-logo![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP33_Object_Detection/output/dice_number.png)
+logo![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP35_Supplementary_Topics/input/microsoft_logo.jpg)
 
-transparent![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP33_Object_Detection/output/funny_camera.png)
+transparent![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP35_Supplementary_Topics/output/microsoft_logo.png)
 
-color_recognition![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP33_Object_Detection/output/funny_camera.png)
+color_recognition![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP35_Supplementary_Topics/output/color_recognition.png)
 
-PIL![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP33_Object_Detection/output/funny_camera.png)
+PIL![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP35_Supplementary_Topics/output/image_with_persian_text.jpg)
