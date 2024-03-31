@@ -26,10 +26,10 @@ python superman.py
 ```
 
 ### Result
-matermelon![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP35_Supplementary_Topics/input/microsoft_logo.jpg)
+matermelon![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP36_HSV_Color_Space/output/materwelon-HSV.jpg)
 
-recognition![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP35_Supplementary_Topics/output/microsoft_logo.png)
+recognition![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP36_HSV_Color_Space/output/recognition.png)
 
-superman![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP35_Supplementary_Topics/output/color_recognition.png)
+superman![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP36_HSV_Color_Space/output/superman.jpg)
 
-spideman![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP35_Supplementary_Topics/output/image_with_persian_text.jpg)
+spideman![](https://raw.githubusercontent.com/Farokhlagha/PyImageProcessing/main/PyIP36_HSV_Color_Space/output/spiderman.jpg)
