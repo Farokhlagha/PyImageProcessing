@@ -1,0 +1,7 @@
+opencv-python
+numpy
+matplotlib.pyplot
+mediapipe
+python-bidi
+pillow
+arabic_reshaper

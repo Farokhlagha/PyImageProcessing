@@ -95,8 +95,13 @@ This program uses [opencv](https://github.com/opencv/opencv) and numpy libraries
 
 5-Microsoft logo
 
+## PyIP35_Supplementary_Topics
+1-Portable Network Graphics (Transparent Logo)
 
+2-Color Recognition
 
+3-MediaPipe
 
+4-PIL (Python Imaging Library)
 
 

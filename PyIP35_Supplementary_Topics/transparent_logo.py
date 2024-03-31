@@ -11,7 +11,7 @@ def conver2PNG(image):
     return image
 
 
-bgr_logo = cv2.imread("input/ms_logo.png")
+bgr_logo = cv2.imread("input/microsoft_logo.jpg")
 bgra_logo = cv2.cvtColor(bgr_logo, cv2.COLOR_BGR2BGRA)
 
 png_logo=conver2PNG(bgra_logo)
